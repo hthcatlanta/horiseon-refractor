@@ -16,7 +16,7 @@ Pull Requests:
 
 
 
-[alt text](assets/images/)
+![alt text](assets/images/pull-requests)
 
 HTML File:
 <!DOCTYPE html>

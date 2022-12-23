@@ -9,9 +9,9 @@ This is a primarily a routine maintenance on the Horiseon business website.
 Marketing Website for Website services
 
 website screenshot
-![alt text](assets/image/webpic1)
-![alt text](assets/image/webpic2)
-![atl text](assets/image/webpi3)
+![alt text](assets/image/webpic1.jpg)
+![alt text](assets/image/webpic2.jpg)
+![atl text](assets/image/webpic3.jpg)
 
 The following list of file created and madified for this project:
 
@@ -19,7 +19,7 @@ Pull Requests:
 
 
 
-![alt text](assets/images/pull-requests)
+![alt text](assets/images/pull-requests.jpg)
 
 HTML File:
 <!DOCTYPE html>
